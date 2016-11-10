@@ -1,4 +1,4 @@
-# Opencv dependencies description for installling it on arm processors
+# Opencv dependencies description for installing it on arm processors
 -build-essential (GCC 4.4.x or higher C/C++ compiler )
 
 -cmake 2.6 or higher (control software compilation)
